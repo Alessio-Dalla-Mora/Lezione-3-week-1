@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 #contenitore { width: 600px;}
 #contenitore {margin-left: auto; margin-right: auto;}
-#title {color: aliceblue;}
+#title {color: rgb(101, 171, 233);}
+#link {color: orange;}
+h5 {margin: auto;}
